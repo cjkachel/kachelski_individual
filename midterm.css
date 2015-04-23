@@ -1,0 +1,40 @@
+body {
+font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+header {
+float: top;
+width: 90%;
+background: #C00000;
+color: #FFFFFF;
+text-align: center;
+}
+.logo {
+position: fixed;
+top: 10px;
+left: 0px;
+z-index: 100;
+background-attachment: scroll;
+}
+.campus {
+float: left;
+width: 50%;
+background: #000066;
+color:#FFCC00
+}
+.info {
+float: left;
+width: 20%;
+background: #C0C0C0;
+color: #B80000;
+}
+.images {
+float: left;
+width: 20%;
+background: #FFCC00;
+}
+.footer {
+width: 90%;
+clear: both;
+background: #0099CC;
+font-size: .7em;
+}
